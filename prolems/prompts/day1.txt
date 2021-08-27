@@ -1,6 +1,4 @@
-Top K Frequent Elements
-february 17, 2020 by mei, posted in data structures and algorithm problems, leetcode, programming
-Hi Geeks! Welcome to 100 Days Leetcode Challenge.
+Top K Frequent Elements:
 
 DAY 1
 Here is our given problem,
