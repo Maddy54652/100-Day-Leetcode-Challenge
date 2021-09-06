@@ -9,7 +9,7 @@ https://web.archive.org/web/20200420041922/https://developersinspired.com/2020/0
 </br>
 CHALLENGES:</br>
 Top K Frequent Elements</br>
-Product of Array Except Self    – Completed</br>
+Product of Array Except Self</br>
 Subsets – Completed</br>
 Evaluate Reverse Polish Notation  – Completed</br>
 Sqrt(x) – Completed</br>
